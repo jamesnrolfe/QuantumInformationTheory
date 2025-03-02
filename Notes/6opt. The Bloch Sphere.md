@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Notes 
 
 The density operators of single qubits have a particularly nice geometric representation, known as the **Bloch sphere**.

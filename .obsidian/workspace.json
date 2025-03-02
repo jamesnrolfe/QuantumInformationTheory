@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "README"
             }
           },
           {
@@ -280,6 +280,8 @@
   },
   "active": "46b9f5692c67eac1",
   "lastOpenFiles": [
+    "Lecture Notes 2024-25.pdf",
+    "Homepage.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
     "Notes/8opt. No signalling via collapse.md",
     "Notes/6opt. The Bloch Sphere.md",
@@ -304,9 +306,6 @@
     "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
     "Notes/3. Multi-party Quantum Systems/3.1 The Hilbert space of two-party quantum systems - the tensor product.md",
     "Notes/2. The Rules of Quantum Mechanics/2.3 Interference.md",
-    "Notes/2. The Rules of Quantum Mechanics/2.2 Distinguishing orthogonal and non-orthogonal states.md",
-    "Notes/2. The Rules of Quantum Mechanics/2.1 States, evolution and measurement.md",
-    "Lecture Notes 2024-25.pdf",
     "vercel.json",
     "src/site/_includes/components/timestamps.njk",
     "src/site/_includes/components/sidebar.njk",

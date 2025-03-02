@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "preview",
+                "file": "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "1.3 Inner product and orthonormal basis"
             }
           },
           {
@@ -240,6 +240,9 @@
   },
   "active": "46b9f5692c67eac1",
   "lastOpenFiles": [
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.1 Vectors, Dirac notation.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.7 Unitary operators, identity operators.md",
     "Homepage.md",
     "Lecture Notes 2024-25.pdf",
     "README.md",
@@ -264,8 +267,6 @@
     "Notes/4. Applications/4.1 No cloning theorem.md",
     "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
     "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
-    "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
-    "Notes/3. Multi-party Quantum Systems/3.1 The Hilbert space of two-party quantum systems - the tensor product.md",
     "vercel.json",
     "src/site/_includes/components/timestamps.njk",
     "src/site/_includes/components/sidebar.njk",

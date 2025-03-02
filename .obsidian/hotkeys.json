@@ -1,0 +1,26 @@
+{
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "F"
+    }
+  ],
+  "fast-text-color:change-text-color": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "/"
+    }
+  ],
+  "publish:open-in-live-site": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F13"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1740500491798,
+      "path": "Problems"
+    },
+    {
+      "type": "file",
+      "ctime": 1740500496537,
+      "path": "Lecture Notes 2024-25.pdf"
+    },
+    {
+      "type": "folder",
+      "ctime": 1738677739835,
+      "path": "Useful variables, equations"
+    },
+    {
+      "type": "folder",
+      "ctime": 1740500456792,
+      "path": "Notes/1. Mathematical Structure for Quantum Mechanics"
+    },
+    {
+      "type": "folder",
+      "ctime": 1740500469425,
+      "path": "Notes/2. The Rules of Quantum Mechanics"
+    },
+    {
+      "type": "folder",
+      "ctime": 1740500472843,
+      "path": "Notes/3. Multi-party Quantum Systems"
+    },
+    {
+      "type": "folder",
+      "ctime": 1740500476279,
+      "path": "Notes/4. Applications"
+    },
+    {
+      "type": "folder",
+      "ctime": 1740500479414,
+      "path": "Notes/5. Density Operators"
+    },
+    {
+      "type": "file",
+      "ctime": 1740500488150,
+      "path": "Notes/6opt. The Bloch Sphere.md"
+    },
+    {
+      "type": "folder",
+      "ctime": 1740500484719,
+      "path": "Notes/7. Reduced Density Operators"
+    }
+  ]
+}

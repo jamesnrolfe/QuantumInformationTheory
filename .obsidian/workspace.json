@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "339a9846f7d590d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db714749f4214cf",
+        "type": "tabs",
+        "dimension": 50.44031311154599,
+        "children": [
+          {
+            "id": "46b9f5692c67eac1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9.3 Local hidden variable models"
+            }
+          },
+          {
+            "id": "4ad615e25b5e5cdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7.1 The reduced density operator"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc1f34609a086dc2",
+        "type": "tabs",
+        "dimension": 49.55968688845401,
+        "children": [
+          {
+            "id": "2f4f561abc047fa4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Problems/Weekly Problem Sheets/Week 7/Week_7_qp.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week_7_qp"
+            }
+          },
+          {
+            "id": "5018c3bc80191411",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Notes 2024-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture Notes 2024-25"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2b5e6962ed6dc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0af79a7d1aba418f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2d0b68db14045e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "cd29a16b3c4be1a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0026669061bc10a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "1befe58c50b42e2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a0ca51db44d01a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e90b66abf1a26424",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2bb84ed120e6ab91",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9633ac703fb86752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20c0882597645878",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 9.3 Local hidden variable models"
+            }
+          },
+          {
+            "id": "e64a51a51873d055",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ee5deaf2299d295f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "d5b3c8da1d343fbb",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "73724104d5f9fe7b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
+          },
+          {
+            "id": "50167a23cf5850e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "46b9f5692c67eac1",
+  "lastOpenFiles": [
+    "Lecture Notes 2024-25.pdf",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
+    "Screenshot 2025-03-02 at 18.29.28.png",
+    "Screenshot 2025-03-02 at 18.16.12.png",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
+    "Notes/6opt. The Bloch Sphere.md",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models",
+    "Notes/8opt. No signalling via collapse.md",
+    "Notes/Untitled",
+    "Notes/8opt. No signalling via collapse",
+    "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
+    "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
+    "Notes/5. Density Operators/5.2 Properties of the density operator.md",
+    "Problems/Weekly Problem Sheets/Week 7/Week_7_qp.pdf",
+    "Notes/5. Density Operators/5.4 Properties of the trace.md",
+    "Notes/5. Density Operators/5.3 Quantum theory with density operators.md",
+    "Notes/5. Density Operators/5.1 The density operator.md",
+    "Useful variables, equations/Operators.md",
+    "Useful variables, equations/Vectors.md",
+    "Useful variables, equations/Notation points for operators on tensor product spaces.md",
+    "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
+    "Notes/3. Multi-party Quantum Systems/3.1 The Hilbert space of two-party quantum systems - the tensor product.md",
+    "Notes/7. Reduced Density Operators",
+    "Problems/Weekly Problem Sheets/Week 7",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.6 Adjoint of an operator, self-adjoint operators.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.1 Vectors, Dirac notation.md",
+    "Screenshot 2025-02-25 at 13.17.59.png",
+    "assets.md",
+    "Lecture notes/Part 2.pdf",
+    "Lecture notes",
+    "assets/Screenshot 2025-02-22 at 18.33.26.png",
+    "assets/Screenshot 2025-02-22 at 18.36.30.png",
+    "assets",
+    "Notes/4. Applications/4.8 Quantum cryptography.md",
+    "Notes/4. Applications/4.7 The Deutsch-Josza problem.md",
+    "Notes/4. Applications/4.6 Deutsch's problem.md"
+  ]
+}

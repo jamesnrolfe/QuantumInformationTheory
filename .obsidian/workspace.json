@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Homepage"
             }
           },
           {
@@ -221,10 +221,10 @@
             "id": "d5b3c8da1d343fbb",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -245,6 +245,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "44b571de30835e23",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
@@ -270,22 +280,35 @@
   },
   "active": "46b9f5692c67eac1",
   "lastOpenFiles": [
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
     "Home.md",
+    "Homepage.md",
     "Lecture Notes 2024-25.pdf",
+    "vercel.json",
+    "src/site/_includes/components/timestamps.njk",
+    "src/site/_includes/components/sidebar.njk",
+    "src/site/_includes/components/searchScript.njk",
+    "src/site/_includes/components/searchContainer.njk",
+    "src/site/_includes/components/searchButton.njk",
+    "src/site/_includes/components/references.njk",
+    "src/site/_includes/components/pageheader.njk",
+    "src/site/_includes/components/notegrowthhistory.njk",
+    "src/site/img/tree-3.svg",
+    "src/site/img/tree-2.svg",
+    "src/site/img/tree-1.svg",
+    "src/site/img/outgoing.svg",
+    "src/site/img/default-note-icon.svg",
+    "src/site/favicon.svg",
+    "README.md",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
     "Screenshot 2025-03-02 at 18.29.28.png",
     "Screenshot 2025-03-02 at 18.16.12.png",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
     "Notes/6opt. The Bloch Sphere.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models",
     "Notes/8opt. No signalling via collapse.md",
-    "Notes/Untitled",
-    "Notes/8opt. No signalling via collapse",
     "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
     "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
     "Notes/5. Density Operators/5.2 Properties of the density operator.md",
-    "Problems/Weekly Problem Sheets/Week 7/Week_7_qp.pdf",
     "Notes/5. Density Operators/5.4 Properties of the trace.md",
     "Notes/5. Density Operators/5.3 Quantum theory with density operators.md",
     "Notes/5. Density Operators/5.1 The density operator.md",
@@ -296,20 +319,12 @@
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
     "Notes/3. Multi-party Quantum Systems/3.1 The Hilbert space of two-party quantum systems - the tensor product.md",
-    "Notes/7. Reduced Density Operators",
-    "Problems/Weekly Problem Sheets/Week 7",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.6 Adjoint of an operator, self-adjoint operators.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.1 Vectors, Dirac notation.md",
     "Screenshot 2025-02-25 at 13.17.59.png",
     "assets.md",
-    "Lecture notes/Part 2.pdf",
-    "Lecture notes",
     "assets/Screenshot 2025-02-22 at 18.33.26.png",
-    "assets/Screenshot 2025-02-22 at 18.36.30.png",
-    "assets",
-    "Notes/4. Applications/4.8 Quantum cryptography.md",
-    "Notes/4. Applications/4.7 The Deutsch-Josza problem.md",
-    "Notes/4. Applications/4.6 Deutsch's problem.md"
+    "Notes/4. Applications/4.8 Quantum cryptography.md"
   ]
 }

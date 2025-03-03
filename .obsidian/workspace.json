@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
+                "file": "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "1.5 Eigenvectors and eigenvalues, diagonal representation of an operator"
             }
           },
           {
@@ -211,6 +211,16 @@
             "id": "44b571de30835e23",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "af861e489400d5af",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -234,14 +244,14 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46b9f5692c67eac1",
+  "active": "50167a23cf5850e0",
   "lastOpenFiles": [
-    "Notes/6opt. The Bloch Sphere.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.8 Projection operators.md",
     "Homepage.md",
+    "Notes/6opt. The Bloch Sphere.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
     "Useful variables, equations/Vectors.md",
@@ -265,7 +275,6 @@
     "Notes/4. Applications/4.2 Comparison between classical and quantum information.md",
     "Notes/4. Applications/4.1 No cloning theorem.md",
     "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
-    "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
     "Lecture Notes 2024-25.pdf",
     "vercel.json",
     "src/site/_includes/components/timestamps.njk",

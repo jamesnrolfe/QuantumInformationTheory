@@ -160,8 +160,9 @@ $$
 $$
 
 > [!help] Trace operations
-> It is useful to note here that $$\text{tr} X=\text{tr} (|0\rangle \langle 1|+|1\rangle \langle 0|)=\text{tr} (|0\rangle \langle 1|)+\text{tr} (|1\rangle \langle 0|)=\langle 1|0\rangle +\langle 0|1\rangle =0$$
-and so on for the other traces.
+> It is useful to note here that 
+> $$\text{tr} X=\text{tr} (|0\rangle \langle 1|+|1\rangle \langle 0|)=\text{tr} (|0\rangle \langle 1|)+\text{tr} (|1\rangle \langle 0|)=\langle 1|0\rangle +\langle 0|1\rangle =0$$
+>and so on for the other traces.
 
 Similar operations can be shown for $n_{y}$ and $n_{z}$. Thus, the components of the Bloch vector are *precisely* the expectation values of the three Pauli spin observables in the state. 
 

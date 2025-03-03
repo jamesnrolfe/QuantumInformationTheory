@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #Useful
 
 1. We can write operators on $\mathbb{C}^2\otimes \mathbb{C} ^2$ in tensor product notation, or directly in terms of states on the whole Hilbert space e.g.

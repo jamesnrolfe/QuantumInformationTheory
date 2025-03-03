@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
-                "mode": "source",
+                "file": "Homepage.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Inner product and orthonormal basis"
+              "title": "Homepage"
             }
           },
           {
@@ -240,17 +240,15 @@
   },
   "active": "46b9f5692c67eac1",
   "lastOpenFiles": [
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.1 Vectors, Dirac notation.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.7 Unitary operators, identity operators.md",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
     "Homepage.md",
-    "Lecture Notes 2024-25.pdf",
+    "Useful variables, equations/Vectors.md",
+    "Useful variables, equations/Operators.md",
+    "Useful variables, equations/Notation points for operators on tensor product spaces.md",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
     "README.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
-    "Notes/8opt. No signalling via collapse.md",
     "Notes/6opt. The Bloch Sphere.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
     "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
     "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
     "Notes/5. Density Operators/5.4 Properties of the trace.md",
@@ -267,6 +265,8 @@
     "Notes/4. Applications/4.1 No cloning theorem.md",
     "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
     "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
+    "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
+    "Lecture Notes 2024-25.pdf",
     "vercel.json",
     "src/site/_includes/components/timestamps.njk",
     "src/site/_includes/components/sidebar.njk",

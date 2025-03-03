@@ -1,7 +1,7 @@
 {
-  "findText": "underline",
-  "replaceText": "boldsymbol",
-  "useRegEx": false,
+  "findText": "\\\\mathbb\\{C\\}\\s*\\^([a-zA-Z0-9])",
+  "replaceText": "\\mathbb{C}^$1",
+  "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": false,

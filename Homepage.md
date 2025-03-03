@@ -44,14 +44,15 @@ dg-home: "true"
 >[[5.3 Quantum theory with density operators]]
 >[[5.4 Properties of the trace]]
 
->[!check] [[6opt. The Bloch Sphere]]
+>[!check] The Bloch Sphere
+>[[6opt. The Bloch Sphere]]
 
 >[!check] Reduced Density operators
 >[[7.1 The reduced density operator]]
 >[[7.2 Identifying entanglement using the reduced density operator]]
 
-
-> [!check] [[8opt. No signalling via collapse]]
+> [!check] No signalling via collapse
+> [[8opt. No signalling via collapse]]
 
 >[!check] Bell's Theorem and Local Hidden Variables
 >[[9.1 Quick refresher on probabilities and random variables]]

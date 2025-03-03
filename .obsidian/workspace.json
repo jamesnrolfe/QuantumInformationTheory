@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
-                "mode": "preview",
+                "file": "Homepage.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.5 Eigenvectors and eigenvalues, diagonal representation of an operator"
+              "title": "Homepage"
             }
           },
           {
@@ -244,11 +244,13 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "50167a23cf5850e0",
+  "active": "46b9f5692c67eac1",
   "lastOpenFiles": [
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.8 Projection operators.md",
     "Homepage.md",
     "Notes/6opt. The Bloch Sphere.md",
@@ -274,7 +276,6 @@
     "Notes/4. Applications/4.3 Super-dense coding.md",
     "Notes/4. Applications/4.2 Comparison between classical and quantum information.md",
     "Notes/4. Applications/4.1 No cloning theorem.md",
-    "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
     "Lecture Notes 2024-25.pdf",
     "vercel.json",
     "src/site/_includes/components/timestamps.njk",

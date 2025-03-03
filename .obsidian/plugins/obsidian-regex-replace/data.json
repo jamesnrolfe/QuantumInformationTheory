@@ -1,6 +1,6 @@
 {
-  "findText": "\\\\mathbb\\{C\\}\\s*\\^([a-zA-Z0-9])",
-  "replaceText": "\\mathbb{C}^$1",
+  "findText": "check",
+  "replaceText": "tldr",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

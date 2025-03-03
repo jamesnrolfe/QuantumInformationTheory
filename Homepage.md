@@ -2,7 +2,7 @@
 dg-publish: "true"
 dg-home: "true"
 ---
-make an update
+
 > [!check] Mathematical Structure for Quantum Mechanics
 > [[1.1 Vectors, Dirac notation]]
 > [[1.2 Linear Operators]]

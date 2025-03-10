@@ -22,36 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "3cc9b65fb3c072af",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "46b9f5692c67eac1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Problems/Weekly Problem Sheets/Week 8/Week_8_qp.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Week_8_qp"
-            }
-          },
-          {
-            "id": "d5b25f707c9d96e3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Lecture Notes 2024-25.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture Notes 2024-25"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -225,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,7 +211,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "f5b97bad3b553e84",
+  "active": "50167a23cf5850e0",
   "lastOpenFiles": [
     "Lecture Notes 2024-25.pdf",
     "Problems/Weekly Problem Sheets/Week 8/Week_8_qp.pdf",

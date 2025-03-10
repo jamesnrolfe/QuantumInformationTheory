@@ -206,6 +206,16 @@
             "state": {
               "type": "graph-analysis",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "f5b97bad3b553e84",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
@@ -231,7 +241,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "46b9f5692c67eac1",
+  "active": "f5b97bad3b553e84",
   "lastOpenFiles": [
     "Lecture Notes 2024-25.pdf",
     "Problems/Weekly Problem Sheets/Week 8/Week_8_qp.pdf",

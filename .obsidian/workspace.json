@@ -35,9 +35,37 @@
               "icon": "lucide-file",
               "title": "9.4 The CHSH game"
             }
+          },
+          {
+            "id": "63800489f11e24fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/11. Quantum Sensing/11.2 Single-probe sensing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11.2 Single-probe sensing"
+            }
+          },
+          {
+            "id": "2146a8f81361413e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Useful variables, equations/Operators.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Operators"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "24efce44de17287d",
@@ -45,31 +73,18 @@
         "dimension": 48.2780612244898,
         "children": [
           {
-            "id": "63800489f11e24fc",
+            "id": "65439bacd15dbc80",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Lecture Notes 2024-25.pdf"
+                "file": "Problems/Weekly Problem Sheets/Week 10/QIT_Week_10_qp.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture Notes 2024-25"
-            }
-          },
-          {
-            "id": "4ad615e25b5e5cdb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Problems/Weekly Problem Sheets/Week 9/QIT Week 9 QP.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "QIT Week 9 QP"
+              "title": "QIT_Week_10_qp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,21 +293,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1924ad17014f867",
+  "active": "2146a8f81361413e",
   "lastOpenFiles": [
+    "Notes/11. Quantum Sensing/11.2 Single-probe sensing.md",
+    "Notes/11. Quantum Sensing/11.3 n-probe sensing.md",
+    "Problems/Weekly Problem Sheets/Week 10/QIT_Week_10_qp.pdf",
+    "Problems/Weekly Problem Sheets/Week 10",
+    "Notes/11. Quantum Sensing/11.1 The sensing problem.md",
+    "Lecture Notes 2024-25.pdf",
+    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.4 The CHSH game.md",
+    "Notes/11. Quantum Sensing",
+    "Problems/Weekly Problem Sheets/Week 9/QIT Week 9 QP.pdf",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
     "Notes/10. Quantum non-locality.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.4 The CHSH game.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
-    "Problems/Weekly Problem Sheets/Week 9/QIT Week 9 QP.pdf",
     "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
     "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
     "Useful variables, equations/Operators.md",
     "Problems/Weekly Problem Sheets/Week 9",
-    "Lecture Notes 2024-25.pdf",
-    "Screenshot 2025-03-13 at 12.41.20.png",
-    "Screenshot 2025-03-13 at 12.37.44.png",
+    "assets/Screenshot 2025-03-13 at 12.41.20.png",
+    "assets/Screenshot 2025-03-13 at 12.37.44.png",
     "Notes/10 AQu",
     "assets/Screenshot 2025-03-13 at 11.11.44.png",
     "Problems/Weekly Problem Sheets/Week 8/Week_8_qp.pdf",
@@ -313,12 +334,6 @@
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.8 Projection operators.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
-    "Useful variables, equations/Vectors.md",
-    "README.md",
-    "Notes/4. Applications/4.8 Quantum cryptography.md",
-    "vercel.json",
-    "src/site/_includes/components/timestamps.njk",
-    "src/site/_includes/components/sidebar.njk",
     "src/site/img/tree-3.svg",
     "src/site/img/tree-2.svg",
     "src/site/img/tree-1.svg",

@@ -6,7 +6,7 @@
       {
         "id": "0db714749f4214cf",
         "type": "tabs",
-        "dimension": 51.7219387755102,
+        "dimension": 60.1883986117997,
         "children": [
           {
             "id": "180467e46959efdb",
@@ -63,14 +63,28 @@
               "icon": "lucide-file",
               "title": "Operators"
             }
+          },
+          {
+            "id": "06076d26afd72fae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/12. The Quantum Internet/12.0 The Quantum Internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12.0 The Quantum Internet"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "24efce44de17287d",
         "type": "tabs",
-        "dimension": 48.2780612244898,
+        "dimension": 39.811601388200295,
         "children": [
           {
             "id": "65439bacd15dbc80",
@@ -83,8 +97,21 @@
               "icon": "lucide-file-text",
               "title": "QIT_Week_10_qp"
             }
+          },
+          {
+            "id": "c8af8e422bc2037c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lecture Notes 2024-25.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture Notes 2024-25"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,6 +284,26 @@
             "id": "74714d15b5a8905a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "68f4db65c9e9829a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "60c0ec10e4993880",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
@@ -264,7 +311,7 @@
             }
           },
           {
-            "id": "68f4db65c9e9829a",
+            "id": "9c4992639b73430c",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -293,14 +340,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2146a8f81361413e",
+  "active": "0026669061bc10a7",
   "lastOpenFiles": [
-    "Notes/11. Quantum Sensing/11.2 Single-probe sensing.md",
+    "Lecture Notes 2024-25.pdf",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
+    "Notes/4. Applications/4.6 Deutsch's problem.md",
+    "Notes/4. Applications/4.5 Quantum computation - introduction.md",
+    "Notes/4. Applications/4.4 Teleportation.md",
+    "Notes/4. Applications/4.2 Comparison between classical and quantum information.md",
+    "Notes/12. The Quantum Internet/12.0 The Quantum Internet.md",
     "Notes/11. Quantum Sensing/11.3 n-probe sensing.md",
+    "Notes/12. The Quantum Internet",
+    "Notes/11. Quantum Sensing/11.2 Single-probe sensing.md",
+    "Useful variables, equations/Operators.md",
     "Problems/Weekly Problem Sheets/Week 10/QIT_Week_10_qp.pdf",
+    "Notes/5. Density Operators/5.4 Properties of the trace.md",
+    "Notes/5. Density Operators/5.3 Quantum theory with density operators.md",
+    "Notes/5. Density Operators/5.2 Properties of the density operator.md",
+    "Notes/6opt. The Bloch Sphere.md",
     "Problems/Weekly Problem Sheets/Week 10",
     "Notes/11. Quantum Sensing/11.1 The sensing problem.md",
-    "Lecture Notes 2024-25.pdf",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.4 The CHSH game.md",
     "Notes/11. Quantum Sensing",
     "Problems/Weekly Problem Sheets/Week 9/QIT Week 9 QP.pdf",
@@ -310,7 +369,6 @@
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
     "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
     "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
-    "Useful variables, equations/Operators.md",
     "Problems/Weekly Problem Sheets/Week 9",
     "assets/Screenshot 2025-03-13 at 12.41.20.png",
     "assets/Screenshot 2025-03-13 at 12.37.44.png",
@@ -321,19 +379,8 @@
     "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
     "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
     "Useful variables, equations/Notation points for operators on tensor product spaces.md",
-    "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
-    "Notes/5. Density Operators/5.1 The density operator.md",
-    "Notes/5. Density Operators/5.3 Quantum theory with density operators.md",
-    "Notes/5. Density Operators/5.2 Properties of the density operator.md",
-    "Notes/5. Density Operators/5.4 Properties of the trace.md",
     "Problems/Weekly Problem Sheets/Week 8",
-    "Problems/Weekly Problem Sheets/Week 7/Week_7_qp.pdf",
-    "Notes/6opt. The Bloch Sphere.md",
     "assets/Screenshot 2025-03-03 at 13.28.34.png",
-    "Homepage.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.8 Projection operators.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.2 Linear Operators.md",
     "src/site/img/tree-3.svg",
     "src/site/img/tree-2.svg",
     "src/site/img/tree-1.svg",

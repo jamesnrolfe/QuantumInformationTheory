@@ -60,5 +60,12 @@
   "anuppuccin-theme-settings@@anp-cursor": "initial",
   "anuppuccin-theme-settings@@anp-toggle-metadata": false,
   "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-light": true,
-  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false,
+  "minimal-style@@inline-title-font": "CMU Serif Extra",
+  "minimal-style@@sidebar-tabs-style": "sidebar-tabs-index",
+  "minimal-style@@callouts-style": "callouts-outlined",
+  "minimal-style@@pdf-invert-dark": false,
+  "minimal-style@@pdf-blend-light": true,
+  "minimal-style@@pdf-page-style": "pdf-seamless-on",
+  "minimal-style@@pdf-dark-opacity": 0.95
 }

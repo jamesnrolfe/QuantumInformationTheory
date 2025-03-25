@@ -67,5 +67,7 @@
   "minimal-style@@pdf-invert-dark": false,
   "minimal-style@@pdf-blend-light": true,
   "minimal-style@@pdf-page-style": "pdf-seamless-on",
-  "minimal-style@@pdf-dark-opacity": 0.95
+  "minimal-style@@pdf-dark-opacity": 0.95,
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@active-line-on": true
 }

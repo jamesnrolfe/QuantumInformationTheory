@@ -15,11 +15,23 @@
               "type": "markdown",
               "state": {
                 "file": "Notes/12. The Quantum Internet/12.1 Entanglement swapping and quantum repeaters.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "12.1 Entanglement swapping and quantum repeaters"
+            }
+          },
+          {
+            "id": "94c91de79fbfe46a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/quantum_repeater.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "quantum_repeater.excalidraw"
             }
           },
           {
@@ -206,7 +218,8 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes...": true,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false
     }
   },
   "floating": {
@@ -214,15 +227,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "9ba238b2c289733b",
+        "id": "331735f041254d6e",
         "type": "window",
         "children": [
           {
-            "id": "7f96515d62ebcca6",
+            "id": "ffb60651ae2ca4a1",
             "type": "tabs",
             "children": [
               {
-                "id": "c8af8e422bc2037c",
+                "id": "c8108d440c521bb2",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -237,10 +250,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1715,
-        "y": 57,
-        "width": 794,
-        "height": 1289,
+        "x": 1517,
+        "y": 143,
+        "width": 1024,
+        "height": 1150,
         "maximize": false,
         "zoom": 0
       }
@@ -248,18 +261,24 @@
   },
   "active": "06076d26afd72fae",
   "lastOpenFiles": [
+    "Lecture Notes 2024-25.pdf",
+    "Notes/12. The Quantum Internet/12.1 Entanglement swapping and quantum repeaters.md",
+    "Notes/4. Applications/4.4 Teleportation.md",
+    "Excalidraw/quantum_repeater.excalidraw.md",
+    "assets/quantum_repeater.excalidraw.png",
+    "Excalidraw/Drawing 2025-03-25 13.23.42.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-25 13.24.33.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
     "Useful variables, equations/Operators.md",
     "Useful variables, equations/Vectors.md",
-    "Notes/12. The Quantum Internet/12.1 Entanglement swapping and quantum repeaters.md",
     "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
     "Notes/12. The Quantum Internet/12.0 The Quantum Internet.md",
     "Notes/12. The Quantum Internet/12.2 Entanglement purification.md",
-    "Lecture Notes 2024-25.pdf",
     "Notes/11. Quantum Sensing/11.3 n-probe sensing.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
     "Notes/4. Applications/4.6 Deutsch's problem.md",
     "Notes/4. Applications/4.5 Quantum computation - introduction.md",
-    "Notes/4. Applications/4.4 Teleportation.md",
     "Notes/4. Applications/4.2 Comparison between classical and quantum information.md",
     "Notes/12. The Quantum Internet",
     "Notes/11. Quantum Sensing/11.2 Single-probe sensing.md",
@@ -276,23 +295,17 @@
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
     "Notes/10. Quantum non-locality.md",
     "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.1 Quick refresher on probabilities and random variables.md",
-    "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
     "Problems/Weekly Problem Sheets/Week 9",
     "assets/Screenshot 2025-03-13 at 12.41.20.png",
     "assets/Screenshot 2025-03-13 at 12.37.44.png",
     "Notes/10 AQu",
     "assets/Screenshot 2025-03-13 at 11.11.44.png",
     "Problems/Weekly Problem Sheets/Week 8/Week_8_qp.pdf",
-    "Notes/3. Multi-party Quantum Systems/3.1 The Hilbert space of two-party quantum systems - the tensor product.md",
-    "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
-    "Problems/Weekly Problem Sheets/Week 8",
     "assets/Screenshot 2025-03-03 at 13.28.34.png",
     "src/site/img/tree-3.svg",
     "src/site/img/tree-2.svg",
     "src/site/img/tree-1.svg",
     "src/site/img/outgoing.svg",
-    "src/site/img/default-note-icon.svg",
-    "src/site/favicon.svg"
+    "src/site/img/default-note-icon.svg"
   ]
 }

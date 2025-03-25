@@ -1,0 +1,19 @@
+{
+  "callouts": {
+    "custom": [],
+    "settings": {
+      "summary": [
+        {
+          "changes": {
+            "color": "110, 212, 111"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

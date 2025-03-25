@@ -14,24 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/12. The Quantum Internet/12.1 Entanglement swapping and quantum repeaters.md",
-                "mode": "source",
+                "file": "Notes/12. The Quantum Internet/12.2 Entanglement purification.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.1 Entanglement swapping and quantum repeaters"
-            }
-          },
-          {
-            "id": "94c91de79fbfe46a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/quantum_repeater.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "quantum_repeater.excalidraw"
+              "title": "12.2 Entanglement purification"
             }
           },
           {
@@ -261,8 +249,14 @@
   },
   "active": "06076d26afd72fae",
   "lastOpenFiles": [
-    "Lecture Notes 2024-25.pdf",
+    "Notes/8opt. No signalling via collapse.md",
+    "Notes/12. The Quantum Internet/12.2 Entanglement purification.md",
+    "Notes/2. The Rules of Quantum Mechanics/2.1 States, evolution and measurement.md",
+    "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
+    "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
+    "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
     "Notes/12. The Quantum Internet/12.1 Entanglement swapping and quantum repeaters.md",
+    "Lecture Notes 2024-25.pdf",
     "Notes/4. Applications/4.4 Teleportation.md",
     "Excalidraw/quantum_repeater.excalidraw.md",
     "assets/quantum_repeater.excalidraw.png",
@@ -274,7 +268,6 @@
     "Useful variables, equations/Vectors.md",
     "Notes/7. Reduced Density Operators/7.2 Identifying entanglement using the reduced density operator.md",
     "Notes/12. The Quantum Internet/12.0 The Quantum Internet.md",
-    "Notes/12. The Quantum Internet/12.2 Entanglement purification.md",
     "Notes/11. Quantum Sensing/11.3 n-probe sensing.md",
     "Notes/1. Mathematical Structure for Quantum Mechanics/1.3 Inner product and orthonormal basis.md",
     "Notes/4. Applications/4.6 Deutsch's problem.md",
@@ -289,12 +282,8 @@
     "Notes/6opt. The Bloch Sphere.md",
     "Problems/Weekly Problem Sheets/Week 10",
     "Notes/11. Quantum Sensing/11.1 The sensing problem.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.4 The CHSH game.md",
     "Notes/11. Quantum Sensing",
     "Problems/Weekly Problem Sheets/Week 9/QIT Week 9 QP.pdf",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.3 Local hidden variable models.md",
-    "Notes/10. Quantum non-locality.md",
-    "Notes/9. Bell's Theorem and Local Hidden Variable Models/9.2 Non-locality of quantum theory.md",
     "Problems/Weekly Problem Sheets/Week 9",
     "assets/Screenshot 2025-03-13 at 12.41.20.png",
     "assets/Screenshot 2025-03-13 at 12.37.44.png",

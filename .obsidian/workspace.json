@@ -6,7 +6,6 @@
       {
         "id": "0db714749f4214cf",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "06076d26afd72fae",
@@ -14,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/12. The Quantum Internet/12.2 Entanglement purification.md",
+                "file": "Notes/2. The Rules of Quantum Mechanics/2.1 States, evolution and measurement.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12.2 Entanglement purification"
+              "title": "2.1 States, evolution and measurement"
             }
           },
           {
@@ -210,53 +209,17 @@
       "callout-manager:Insert Callout": false
     }
   },
-  "floating": {
-    "id": "fee753e97be08f44",
-    "type": "floating",
-    "children": [
-      {
-        "id": "331735f041254d6e",
-        "type": "window",
-        "children": [
-          {
-            "id": "ffb60651ae2ca4a1",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c8108d440c521bb2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Lecture Notes 2024-25.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Lecture Notes 2024-25"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1517,
-        "y": 143,
-        "width": 1024,
-        "height": 1150,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "06076d26afd72fae",
   "lastOpenFiles": [
-    "Notes/8opt. No signalling via collapse.md",
+    "Untitled 1.canvas",
     "Notes/12. The Quantum Internet/12.2 Entanglement purification.md",
+    "Lecture Notes 2024-25.pdf",
+    "Notes/8opt. No signalling via collapse.md",
     "Notes/2. The Rules of Quantum Mechanics/2.1 States, evolution and measurement.md",
     "Notes/3. Multi-party Quantum Systems/3.2 Multi-party quantum systems.md",
     "Notes/3. Multi-party Quantum Systems/3.4 The EPR state.md",
     "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
     "Notes/12. The Quantum Internet/12.1 Entanglement swapping and quantum repeaters.md",
-    "Lecture Notes 2024-25.pdf",
     "Notes/4. Applications/4.4 Teleportation.md",
     "Excalidraw/quantum_repeater.excalidraw.md",
     "assets/quantum_repeater.excalidraw.png",
@@ -281,7 +244,6 @@
     "Notes/5. Density Operators/5.2 Properties of the density operator.md",
     "Notes/6opt. The Bloch Sphere.md",
     "Problems/Weekly Problem Sheets/Week 10",
-    "Notes/11. Quantum Sensing/11.1 The sensing problem.md",
     "Notes/11. Quantum Sensing",
     "Problems/Weekly Problem Sheets/Week 9/QIT Week 9 QP.pdf",
     "Problems/Weekly Problem Sheets/Week 9",

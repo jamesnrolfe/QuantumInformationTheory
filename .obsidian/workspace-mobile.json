@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
+                "file": "Notes/4. Applications/4.4 Teleportation.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.1 The reduced density operator"
+              "title": "4.4 Teleportation"
             }
           }
         ]
@@ -196,8 +196,8 @@
         "state": {
           "type": "graph-analysis",
           "state": {},
-          "icon": "GA-ICON",
-          "title": "Graph Analysis"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -223,24 +223,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "callout-manager:Insert Callout": false
     }
   },
-  "active": "e698698c16e7c71c",
+  "active": "bb91a1acbdf930ed",
   "lastOpenFiles": [
+    "Notes/2. The Rules of Quantum Mechanics/2.1 States, evolution and measurement.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.8 Projection operators.md",
+    "Useful variables, equations/Operators.md",
+    "Notes/4. Applications/4.3 Super-dense coding.md",
+    "Useful variables, equations/Vectors.md",
+    "Untitled 1.canvas",
+    "Notes/3. Multi-party Quantum Systems/3.3 Operations on tensor product states.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.6 Adjoint of an operator, self-adjoint operators.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.7 Unitary operators, identity operators.md",
+    "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
+    "Notes/4. Applications/4.4 Teleportation.md",
+    "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
     "Problems/Weekly Problem Sheets/Week 7/Week_7_qp.pdf",
     "Notes/5. Density Operators/5.1 The density operator.md",
-    "Notes/7. Reduced Density Operators/7.1 The reduced density operator.md",
-    "Useful variables, equations/Vectors.md",
     "Notes/3. Multi-party Quantum Systems/3.1 The Hilbert space of two-party quantum systems - the tensor product.md",
     "Notes/6. The Bloch Sphere.md",
-    "Notes/4. Applications/4.4 Teleportation.md",
     "Notes/4. Applications/4.8 Quantum cryptography.md",
     "Notes/4. Applications/4.7 The Deutsch-Josza problem.md",
     "Notes/4. Applications/4.1 No cloning theorem.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.7 Unitary operators, identity operators.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.6 Adjoint of an operator, self-adjoint operators.md",
-    "Notes/1. Mathematical Structure for Quantum Mechanics/1.5 Eigenvectors and eigenvalues, diagonal representation of an operator.md",
     "Problems/Weekly Problem Sheets/Week 3/Week_3_fb.pdf",
     "Problems/Weekly Problem Sheets/Week 3/Week_3_ms.pdf",
     "Notes/2. The Rules of Quantum Mechanics/2.3 Interference.md",

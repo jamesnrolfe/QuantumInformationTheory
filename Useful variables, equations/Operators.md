@@ -16,7 +16,7 @@ $$ Z=\begin{pmatrix} 1&0\\0&-1\end{pmatrix} $$
 
 $$ X=|0\rangle\langle1|+|1\rangle\langle0| =|+\rangle \langle+|-|-\rangle \langle - |$$
 
-$$ Y=i|0\rangle\langle1|-i|1\rangle\langle0| $$
+$$ Y=i|0\rangle\langle 1|-i|1\rangle\langle0| $$
 
 $$ Z=|0\rangle\langle0|-|1\rangle\langle1| $$
 
